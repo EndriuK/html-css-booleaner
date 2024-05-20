@@ -36,13 +36,14 @@ body {
     line-height: 5;
 }
 
-#evidenziato {
+.evidenziato {
     background-color: yellow;
 
 }
 
 .tabella {
     margin-top: 20px;
+    margin-bottom: 20px;
     width: 100%;
     background-color: blue;
     border-collapse: collapse;
@@ -66,4 +67,31 @@ body {
 
 .prima_riga {
     background-color: white;
+}
+
+#info_utili {
+    color: gray;
+    line-height: 5;
+}
+
+footer {
+    margin: 15px;
+}
+
+.background_photo_1 {
+    background-image: url(../img/monitor.jpg);
+    width: 312px;
+    height: 208px;
+    color: white;
+    padding: 30px;
+    font-size: 20px;
+}
+
+.background_photo_2 {
+    background-image: url(../img/graph.jpg);
+    width: 312px;
+    height: 208px;
+    color: white;
+    padding: 30px;
+    font-size: 20px;
 }
