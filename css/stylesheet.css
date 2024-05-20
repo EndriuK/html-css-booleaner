@@ -4,13 +4,35 @@
     box-sizing: border-box;
 }
 
+body {
+    font-family: serif;
+}
+
 #sfondo_titolo {
     background-color: rgb(82, 147, 237);
     background-image: url("../img/pattern.png");
     background-repeat: repeat;
+    margin-bottom: 20px;
 }
 
 #logo {
     width: 250px;
     margin: 50px 20px;
+}
+
+#corpo_pagina {
+    margin: 10px;
+}
+
+#autore {
+    color: skyblue;
+}
+
+.tim {
+    margin-top: 20px;
+}
+
+#evidenziato {
+    background-color: yellow;
+
 }
