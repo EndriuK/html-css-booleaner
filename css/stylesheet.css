@@ -41,7 +41,29 @@ body {
 
 }
 
-#tabella {
-    padding-top: 20px;
-    border: 2px solid black;
+.tabella {
+    margin-top: 20px;
+    width: 100%;
+    background-color: blue;
+    border-collapse: collapse;
+}
+
+.w25 {
+    width: 25%;
+    color: white;
+}
+
+.w50 {
+    width: 50%;
+    color: white;
+    margin: 0;
+}
+
+.riga {
+    background-color: aqua;
+
+}
+
+.prima_riga {
+    background-color: white;
 }
