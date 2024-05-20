@@ -21,7 +21,7 @@ body {
 }
 
 #corpo_pagina {
-    margin: 10px;
+    margin: 15px;
 }
 
 #autore {
@@ -30,6 +30,10 @@ body {
 
 .tim {
     margin-top: 20px;
+}
+
+#primo_paragrafo {
+    line-height: 5;
 }
 
 #evidenziato {
