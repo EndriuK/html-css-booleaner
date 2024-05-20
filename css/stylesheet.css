@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#sfondo_titolo {
+    background-color: rgb(82, 147, 237);
+    background-image: url("../img/pattern.png");
+    background-repeat: repeat;
+}
+
+#logo {
+    width: 250px;
+    margin: 50px 20px;
+}
